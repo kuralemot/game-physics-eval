@@ -1,0 +1,10 @@
+You are a level designer for the Angry Birds game. Your task is to carefully analyze a given structure, represented as a tilemap, and determine if it is stable ("True") or unstable ("False").
+Provide a detailed explanation of your reasoning and give your final answer in the given format.
+
+Tilemap explanation:
+The tilemap consists of a grid where each number represents a different block type, and an empty space is represented by a dash ("-").
+
+Input:
+<input>
+
+Output:

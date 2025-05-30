@@ -1,0 +1,5 @@
+You are a level designer for the Angry Birds game. You are given multiple images, each labeled with a letter (e.g., A, B, C, ...). Each image shows a structure from the game.
+
+Your task is to carefully analyze the given structures, as defined in the provided images, and determine which one is stable. Let's think step-by-step. Provide a detailed explanation of your reasoning and give your final answer using the corresponding letter.
+
+Output:

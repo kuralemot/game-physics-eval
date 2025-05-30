@@ -1,0 +1,13 @@
+Look at examples in the "Examples" section and utilize examples and information from that section to perform the following task. 
+
+You are a level designer for the Angry Birds game. You are given multiple XML texts of structures over time. The first XML text shows the initial state of the structure at 0 seconds. 
+
+The following XML texts show possible outcomes after 10 seconds. 
+Each outcome XML text is labeled with the elapsed time (e.g., 10s-A, 10s-B, ...).
+
+Your task is to analyze the initial structure and predict what will happen to it after 10 seconds. Then, choose the outcome XML text that most accurately represents what will happen to the structure. Provide your reasoning, and give your final answer using the corresponding letter of the outcome XML text.
+
+Input:
+<input>
+
+Output:

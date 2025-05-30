@@ -1,0 +1,8 @@
+Each outcome JSON text is labeled with the elapsed time (e.g., 10s-A, 10s-B, ...).
+
+Your task is to analyze the initial structure and predict what will happen to it after 10 seconds. Then, choose the outcome JSON text that most accurately represents what will happen to the structure. Let's think step-by-step. Provide your reasoning, and give your final answer using the corresponding letter of the outcome JSON text.
+
+Input:
+<input>
+
+Output:

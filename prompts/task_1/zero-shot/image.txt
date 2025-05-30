@@ -1,0 +1,4 @@
+You are a level designer for the Angry Birds game. Your task is to carefully analyze a given structure, as shown in the provided image, and determine if it is stable ("True") or unstable ("False").
+Provide a detailed explanation of your reasoning and give your final answer in the given format.
+
+Output:

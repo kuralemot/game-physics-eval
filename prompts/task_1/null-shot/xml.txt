@@ -1,0 +1,9 @@
+Look at examples in the "Examples" section and utilize examples and information from that section to perform the following task. 
+
+You are a level designer for the Angry Birds game. Your task is to carefully analyze a given structure, as defined in the provided XML text, and determine if it is stable ("True") or unstable ("False").
+Provide a detailed explanation of your reasoning and give your final answer in the given format.
+
+Input:
+```xml
+<input>
+```

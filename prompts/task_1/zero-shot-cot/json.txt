@@ -1,0 +1,9 @@
+You are a level designer for the Angry Birds game. Your task is to carefully analyze a given structure, as defined in the provided JSON text, and determine if it is stable ("True") or unstable ("False").
+Let's think step-by-step. Provide a detailed explanation of your reasoning and give your final answer in the given format.
+
+Input:
+```json
+<input>
+```
+
+Output:
