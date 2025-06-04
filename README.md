@@ -48,19 +48,19 @@ python src/response_gathering_<Task>.py \
 
 Arguments:
 
--source: Path or identifier of the input dataset
+- source: Path or identifier of the input dataset
 
--destination: Directory to save the gathered responses
+- destination: Directory to save the gathered responses
 
--data_type: Data category (e.g., questions, prompts)
+- data_type: Data category (e.g., questions, prompts)
 
--pe_type: Prompt engineering directory type
+- pe_type: Prompt engineering directory type
 
--llm: Model identifier to generate responses (e.g., gpt-4, vicuna-13b)
+- llm: Model identifier to generate responses (e.g., gpt-4, vicuna-13b)
 
--temperature: Sampling temperature (e.g., 0.7, 1.0)
+- temperature: Sampling temperature (e.g., 0.7, 1.0)
 
-3. Gather all responses
+### 3. Gather all responses
 To collect responses across all data types and models:
 
 ```bash
