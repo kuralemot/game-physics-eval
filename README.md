@@ -17,6 +17,9 @@ This repository contains tools and data for evaluating MLLM responses in game ph
 
 ## 🔗 Data Sources
 
+- **Dataset generator**  
+  https://github.com/anonymouspenguin27/game-physics-benchmark
+  
 - **Raw results from MLLM responses**  
   Located on Hugging Face:  
   https://huggingface.co/datasets/FajarD/game-physics-eval/tree/main
