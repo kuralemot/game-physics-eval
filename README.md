@@ -81,3 +81,12 @@ bash scripts/gathering_response.sh
 └── scripts/
     └── gathering_response.sh
 ```
+
+## 📊 Comparison with Existing Work
+| Dataset  | Size / Levels     | Model Type  | Game Environment | Modality          | Target Task                                                                         |
+| -------- | ----------------- | ----------- | ---------------- | ----------------- | ----------------------------------------------------------------------------------- |
+| **Ours** | 300 levels        | Multimodal  | ✅ Yes            | XML, JSON, Image  | Physical reasoning, specifically stability, in visually grounded game contexts      |
+| Newton   | 160k QA questions | LLM         | ❌ No             | Text              | Physics reasoning skills on everyday object attributes                              |
+| Phyx     | 3K questions      | Multimodal  | ❌ No             | Image and Text    | Physics-grounded reasoning across 6 core physics domains                            |
+| Phyre    | 5,000 tasks       | Traditional | ✅ Yes            | Visual            | Physical reasoning and generalization in 2D classical mechanics puzzles             |
+| NovPhy   | 40 task templates | Traditional | ✅ Yes            | Visual + Symbolic | Physical reasoning with novelty detection and adaptation in open-world environments |
