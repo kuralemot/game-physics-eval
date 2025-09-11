@@ -2,6 +2,14 @@
 
 This repository contains tools and data for evaluating MLLM responses in game physics tasks.
 
+## 📄 Publications
+
+### **1. IEEE COG 2025 Conference Paper** ✅ *(Published)*
+**Title:** *Exploration of Stability Judgments: From Multimodal LLMs to Human Insights*  
+**Link:** [https://ieeexplore.ieee.org/document/11114183/](https://ieeexplore.ieee.org/document/11114183/)  
+**Tag:** `cog-2025-camera-ready`
+
+
 ## 📦 Repository Contents
 
 - **`src/response_gathering_(Task).py`**  
