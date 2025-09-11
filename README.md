@@ -5,9 +5,9 @@ This repository contains tools and data for evaluating MLLM responses in game ph
 ## 📄 Publications
 
 ### **1. IEEE COG 2025 Conference Paper** ✅ *(Published)*
-**Title:** *Exploration of Stability Judgments: From Multimodal LLMs to Human Insights*  
+**Title:** *Can Multimodal LLMs Reason About Stability? An Exploratory Study with Insights from the LLMs4PCG Challenge*  
 **Link:** [https://ieeexplore.ieee.org/document/11114183/](https://ieeexplore.ieee.org/document/11114183/)  
-**Tag:** `cog-2025-camera-ready`
+**Tag:** `cog-2025-published`
 
 
 ## 📦 Repository Contents
